@@ -1,0 +1,6 @@
+com\factory\machine\events\dto\StatsResponse.class
+com\factory\machine\events\dto\BatchResponse.class
+com\factory\machine\events\MachineEventsApplication.class
+com\factory\machine\events\util\HashUtil.class
+com\factory\machine\events\model\Event.class
+com\factory\machine\events\dto\Rejection.class

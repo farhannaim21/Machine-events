@@ -46,8 +46,10 @@ It simulates a backend system that ingests machine events, handles validation an
 .\mvnw.cmd spring-boot:run
 ```
 ---
-### Screenshot of result
-images/h2-console.png
+### Screenshot of Result
+![Result](images/Result.png)
+![Result](images/h2console.png)
+
 
 
 
